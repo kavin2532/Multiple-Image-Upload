@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+{% for image in all_images %}
+<img src = "{{img.images.url}}">
+{% endfor %}
+</body>
+<body>
+<form method="POST" enctype="multipart/form-data">
+<input type="file" name="images" multiple>
+<button> Upload</button>
+</form>
+</body>
+</html>
