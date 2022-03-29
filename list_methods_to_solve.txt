@@ -1,0 +1,45 @@
+METHOD 1: 
+ using yml an dget the data from pdf 
+Extracting Invoice Data Using invoice2data in Python
+
+
+
+
+
+link:https://medium.com/version-1/my-experience-extracting-invoice-data-using-invoice2data-in-python-1c6450fa001f
+link  for code : https://pypi.org/project/invoice2data/
+
+METHOD 2:
+
+using pytesseract , opencv to get pdf to image content rectangle and then crop the area to text
+
+Extracting Text from Scanned PDF using Pytesseract & Open CV
+
+
+
+
+link : https://towardsdatascience.com/extracting-text-from-scanned-pdf-using-pytesseract-open-cv-cd670ee38052
+ link2 refer from 1: https://gist.github.com/akash-ch2812/ffcf6ce7e1e6137f323689157b233151#file-crop_and_ocr-py
+
+
+
+
+
+
+Conda install :
+
+ https://github.com/conda/conda/issues/10144
+ 
+ 
+ 
+METHOD 3:
+
+PyTesseract [1] is the to-go library for extracting text from images. It uses classical computer vision methods to perform optical character recognition (OCR), then features neural network components such as LSTM from its fourth version onwards.
+
+You may ask: Is there any alternative that is as good as PyTesseract for OCR? Yes, EasyOCR [2] it is. It is a new, deep learning-based module for reading text from all kinds of images in more than 80 languages.
+
+Extract Text from Images in Python using OpenCV and EasyOCR
+
+
+
+link: https://github.com/nghweigeok/text-recognition-ocr-python/blob/main/Optical%20Character%20Recognition%20using%20OpenCV%20and%20EasyOCR.ipynb
