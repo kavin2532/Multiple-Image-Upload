@@ -1,0 +1,1347 @@
+[
+    {
+        "Id": "f21844b74f404fb389a7634b5bc22ff6",
+        "RecognitionStatus": 0,
+        "Offset": 116500000,
+        "Duration": 76800000,
+        "Channel": 0,
+        "DisplayText": "Our smiles on what it takes to fool this down. I'll do it till the sun goes down and all through the night time.",
+        "NBest": [
+            {
+                "Confidence": 0.45924172,
+                "Lexical": "our smiles on what it takes to fool this down i'll do it till the sun goes down and all through the night time",
+                "ITN": "our smiles on what it takes to fool this down i'll do it till the sun goes down and all through the night time",
+                "MaskedITN": "our smiles on what it takes to fool this down i'll do it till the sun goes down and all through the night time",
+                "Display": "Our smiles on what it takes to fool this down. I'll do it till the sun goes down and all through the night time.",
+                "Words": [
+                    {
+                        "Word": "our",
+                        "Offset": 116500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "smiles",
+                        "Offset": 118100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 126100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "what",
+                        "Offset": 128100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 130100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "takes",
+                        "Offset": 130900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 134500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "fool",
+                        "Offset": 136500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 141700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "down",
+                        "Offset": 144900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "i'll",
+                        "Offset": 154100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 158900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 159700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "till",
+                        "Offset": 160500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 163700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sun",
+                        "Offset": 165700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "goes",
+                        "Offset": 167300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "down",
+                        "Offset": 169300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 171700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 172900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "through",
+                        "Offset": 180100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 186500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "night",
+                        "Offset": 187700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "time",
+                        "Offset": 191300000,
+                        "Duration": 2000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.4550751,
+                "Lexical": "our smiles on what it takes to fool this down i'll do it 'til the sun goes down and all through the night time",
+                "ITN": "our smiles on what it takes to fool this down i'll do it 'til the sun goes down and all through the night time",
+                "MaskedITN": "our smiles on what it takes to fool this down i'll do it 'til the sun goes down and all through the night time",
+                "Display": "our smiles on what it takes to fool this down i'll do it 'til the sun goes down and all through the night time",
+                "Words": [
+                    {
+                        "Word": "our",
+                        "Offset": 116500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "smiles",
+                        "Offset": 118100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 126100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "what",
+                        "Offset": 128100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 130100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "takes",
+                        "Offset": 130900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 134500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "fool",
+                        "Offset": 136500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 141700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "down",
+                        "Offset": 144900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "i'll",
+                        "Offset": 154100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 159300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 161300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "'til",
+                        "Offset": 162100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 163700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sun",
+                        "Offset": 165700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "goes",
+                        "Offset": 167300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "down",
+                        "Offset": 169300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 171700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 172900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "through",
+                        "Offset": 180100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 186500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "night",
+                        "Offset": 187700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "time",
+                        "Offset": 191300000,
+                        "Duration": 2000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.4777805,
+                "Lexical": "our smiles on what it takes to fool us down i'll do it till the sun goes down and all through the night time",
+                "ITN": "our smiles on what it takes to fool us down i'll do it till the sun goes down and all through the night time",
+                "MaskedITN": "our smiles on what it takes to fool us down i'll do it till the sun goes down and all through the night time",
+                "Display": "our smiles on what it takes to fool us down i'll do it till the sun goes down and all through the night time",
+                "Words": [
+                    {
+                        "Word": "our",
+                        "Offset": 116500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "smiles",
+                        "Offset": 118100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 126100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "what",
+                        "Offset": 128100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 130100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "takes",
+                        "Offset": 130900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 134500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "fool",
+                        "Offset": 136500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "us",
+                        "Offset": 142100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "down",
+                        "Offset": 144900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "i'll",
+                        "Offset": 154100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 158900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 159700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "till",
+                        "Offset": 160500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 163700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sun",
+                        "Offset": 165700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "goes",
+                        "Offset": 167300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "down",
+                        "Offset": 169300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 171700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 172900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "through",
+                        "Offset": 180100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 186500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "night",
+                        "Offset": 187700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "time",
+                        "Offset": 191300000,
+                        "Duration": 2000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.4339172,
+                "Lexical": "our smiles on order it takes to fool this down i'll do it till the sun goes down and all through the night time",
+                "ITN": "our smiles on order it takes to fool this down i'll do it till the sun goes down and all through the night time",
+                "MaskedITN": "our smiles on order it takes to fool this down i'll do it till the sun goes down and all through the night time",
+                "Display": "our smiles on order it takes to fool this down i'll do it till the sun goes down and all through the night time",
+                "Words": [
+                    {
+                        "Word": "our",
+                        "Offset": 116500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "smiles",
+                        "Offset": 118100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 126100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "order",
+                        "Offset": 126900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 130500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "takes",
+                        "Offset": 131300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 134500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "fool",
+                        "Offset": 136500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 141700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "down",
+                        "Offset": 144900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "i'll",
+                        "Offset": 154100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 158900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 159700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "till",
+                        "Offset": 160500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 163700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sun",
+                        "Offset": 165700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "goes",
+                        "Offset": 167300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "down",
+                        "Offset": 169300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 171700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 172900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "through",
+                        "Offset": 180100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 186500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "night",
+                        "Offset": 187700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "time",
+                        "Offset": 191300000,
+                        "Duration": 2000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.43009052,
+                "Lexical": "our smiles on order takes to fool this down i'll do it till the sun goes down and all through the night time",
+                "ITN": "our smiles on order takes to fool this down i'll do it till the sun goes down and all through the night time",
+                "MaskedITN": "our smiles on order takes to fool this down i'll do it till the sun goes down and all through the night time",
+                "Display": "our smiles on order takes to fool this down i'll do it till the sun goes down and all through the night time",
+                "Words": [
+                    {
+                        "Word": "our",
+                        "Offset": 116500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "smiles",
+                        "Offset": 118100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 126100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "order",
+                        "Offset": 126900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "takes",
+                        "Offset": 130900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 134500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "fool",
+                        "Offset": 136500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 141700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "down",
+                        "Offset": 144900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "i'll",
+                        "Offset": 154100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 158900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 159700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "till",
+                        "Offset": 160500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 163700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sun",
+                        "Offset": 165700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "goes",
+                        "Offset": 167300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "down",
+                        "Offset": 169300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 171700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "all",
+                        "Offset": 172900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "through",
+                        "Offset": 180100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 186500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "night",
+                        "Offset": 187700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "time",
+                        "Offset": 191300000,
+                        "Duration": 2000000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "2b641894d8a245c5bbacfcdc656a759b",
+        "RecognitionStatus": 0,
+        "Offset": 214300000,
+        "Duration": 92000000,
+        "Channel": 0,
+        "DisplayText": "Oh yeah? Oh yeah, I'll tell you what you want to hear. Get my sunglasses on while I shed a tear. But now where do I die?",
+        "NBest": [
+            {
+                "Confidence": 0.47275704,
+                "Lexical": "oh yeah oh yeah i'll tell you what you want to hear get my sunglasses on while i shed a tear but now where do i die",
+                "ITN": "oh yeah oh yeah i'll tell you what you want to hear get my sunglasses on while i shed a tear but now where do i die",
+                "MaskedITN": "oh yeah oh yeah i'll tell you what you want to hear get my sunglasses on while i shed a tear but now where do i die",
+                "Display": "Oh yeah? Oh yeah, I'll tell you what you want to hear. Get my sunglasses on while I shed a tear. But now where do I die?",
+                "Words": [
+                    {
+                        "Word": "oh",
+                        "Offset": 214300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 226700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "oh",
+                        "Offset": 228300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 229100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i'll",
+                        "Offset": 236300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "tell",
+                        "Offset": 239100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 241100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "what",
+                        "Offset": 243100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 247900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "want",
+                        "Offset": 250300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 252700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "hear",
+                        "Offset": 253500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "get",
+                        "Offset": 255900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 260300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "sunglasses",
+                        "Offset": 263500000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 271500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "while",
+                        "Offset": 273100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 276700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "shed",
+                        "Offset": 277100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 281100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "tear",
+                        "Offset": 283100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "but",
+                        "Offset": 290300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "now",
+                        "Offset": 291900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "where",
+                        "Offset": 301900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 303900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 304700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "die",
+                        "Offset": 305100000,
+                        "Duration": 1200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.56842816,
+                "Lexical": "oh yeah oh yeah i'll tell you what you want to hear get my sunglasses on while i shed a tear",
+                "ITN": "oh yeah oh yeah i'll tell you what you want to hear get my sunglasses on while i shed a tear",
+                "MaskedITN": "oh yeah oh yeah i'll tell you what you want to hear get my sunglasses on while i shed a tear",
+                "Display": "oh yeah oh yeah i'll tell you what you want to hear get my sunglasses on while i shed a tear",
+                "Words": [
+                    {
+                        "Word": "oh",
+                        "Offset": 214300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 226700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "oh",
+                        "Offset": 228300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 229100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i'll",
+                        "Offset": 236300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "tell",
+                        "Offset": 239100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 241100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "what",
+                        "Offset": 243100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 247900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "want",
+                        "Offset": 250300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 252700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "hear",
+                        "Offset": 253500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "get",
+                        "Offset": 255900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 260300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "sunglasses",
+                        "Offset": 263500000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 271500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "while",
+                        "Offset": 273100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 276700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "shed",
+                        "Offset": 291100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 293100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "tear",
+                        "Offset": 301900000,
+                        "Duration": 2400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.4826151,
+                "Lexical": "oh yeah oh yeah i'll tell you what you want to hear my sunglasses on while i shed a tear but now where do i die",
+                "ITN": "oh yeah oh yeah i'll tell you what you want to hear my sunglasses on while i shed a tear but now where do i die",
+                "MaskedITN": "oh yeah oh yeah i'll tell you what you want to hear my sunglasses on while i shed a tear but now where do i die",
+                "Display": "oh yeah oh yeah i'll tell you what you want to hear my sunglasses on while i shed a tear but now where do i die",
+                "Words": [
+                    {
+                        "Word": "oh",
+                        "Offset": 214300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 226700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "oh",
+                        "Offset": 228300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 229100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i'll",
+                        "Offset": 236300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "tell",
+                        "Offset": 239100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 241100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "what",
+                        "Offset": 243100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 247900000,
+                        "Duration": 11600000
+                    },
+                    {
+                        "Word": "want",
+                        "Offset": 259500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 261100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "hear",
+                        "Offset": 261900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 263500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "sunglasses",
+                        "Offset": 264300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 271500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "while",
+                        "Offset": 273100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 276700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "shed",
+                        "Offset": 277100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 281100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "tear",
+                        "Offset": 283100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "but",
+                        "Offset": 290300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "now",
+                        "Offset": 291900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "where",
+                        "Offset": 301900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 303900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 304700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "die",
+                        "Offset": 305100000,
+                        "Duration": 1200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.4613346,
+                "Lexical": "oh yeah ohh yeah i'll tell you what you want to hear get my sunglasses on while i shed a tear but now where do i die",
+                "ITN": "oh yeah ohh yeah i'll tell you what you want to hear get my sunglasses on while i shed a tear but now where do i die",
+                "MaskedITN": "oh yeah ohh yeah i'll tell you what you want to hear get my sunglasses on while i shed a tear but now where do i die",
+                "Display": "oh yeah ohh yeah i'll tell you what you want to hear get my sunglasses on while i shed a tear but now where do i die",
+                "Words": [
+                    {
+                        "Word": "oh",
+                        "Offset": 214300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 226300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "ohh",
+                        "Offset": 227900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 229100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i'll",
+                        "Offset": 236300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "tell",
+                        "Offset": 239100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 241100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "what",
+                        "Offset": 243100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 247900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "want",
+                        "Offset": 250300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 252700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "hear",
+                        "Offset": 253500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "get",
+                        "Offset": 255900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 260300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "sunglasses",
+                        "Offset": 263500000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 271500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "while",
+                        "Offset": 273100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 276700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "shed",
+                        "Offset": 277100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 281100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "tear",
+                        "Offset": 283100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "but",
+                        "Offset": 290300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "now",
+                        "Offset": 291900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "where",
+                        "Offset": 301900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 303900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 304700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "die",
+                        "Offset": 305100000,
+                        "Duration": 1200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.47038332,
+                "Lexical": "oh yeah oh yeah i'll tell you what you want to hear in my sunglasses on while i shed a tear but now where do i die",
+                "ITN": "oh yeah oh yeah i'll tell you what you want to hear in my sunglasses on while i shed a tear but now where do i die",
+                "MaskedITN": "oh yeah oh yeah i'll tell you what you want to hear in my sunglasses on while i shed a tear but now where do i die",
+                "Display": "oh yeah oh yeah i'll tell you what you want to hear in my sunglasses on while i shed a tear but now where do i die",
+                "Words": [
+                    {
+                        "Word": "oh",
+                        "Offset": 214300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 226700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "oh",
+                        "Offset": 228300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 229100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i'll",
+                        "Offset": 236300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "tell",
+                        "Offset": 239100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 241100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "what",
+                        "Offset": 243100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 247900000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "want",
+                        "Offset": 259100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 260700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "hear",
+                        "Offset": 261500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 263100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 263900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "sunglasses",
+                        "Offset": 264700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 271500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "while",
+                        "Offset": 273100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 276700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "shed",
+                        "Offset": 277100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 281100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "tear",
+                        "Offset": 283100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "but",
+                        "Offset": 290300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "now",
+                        "Offset": 291900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "where",
+                        "Offset": 301900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 303900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 304700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "die",
+                        "Offset": 305100000,
+                        "Duration": 1200000
+                    }
+                ]
+            }
+        ]
+    }
+]
